@@ -15,7 +15,7 @@ This is a simple C program that runs in the terminal and allows for the conversi
 
 ## Installation
 
-To run the program, a compiler such as MingW64 for Windows is required. Once installed, the user may download the **[IP-Converter](https://github.com/Kaddakos/IP-Converter/blob/main/IP-Converter.exe)** and run it.
+To run the program, a compiler such as MingW64 for Windows is required. Once installed, the user may download the **[IP-Converter](https://github.com/Kaddakos/IP.Converter/blob/main/IP-Converter.exe)** and run it.
 
 Alternatively, the code may be copied and pasted into an editor for execution, or even an online compiler such as **[onlinegdb](https://www.onlinegdb.com/online_c_compiler)**
 
