@@ -41,7 +41,7 @@ gcc -o ip_converter ip_converter.c
 ./ip_converter
 ```
 
-Alternatively, the **[code](https://github.com/Kaddakos/IP.Converter/blob/main/IP-Converter.c)** may be copied and pasted into an editor for execution, or even an online compiler such as **[onlinegdb](https://www.onlinegdb.com/online_c_compiler)**
+Alternatively, the **[code](https://github.com/Kaddakos/IP.Converter/blob/main/IP-Converter.c)** may be copied and pasted into an editor for execution, or even an online compiler such as **[onlinegdb](https://www.onlinegdb.com/online_c_compiler)**.
 
 ## Usage
 
