@@ -20,7 +20,6 @@ This is a simple C program that runs in the terminal and allows for the conversi
 ```
 git clone https://github.com/Kaddakos/IP.Converter.git
 ```
-- If you don't have GCC installed, you can install it by following the instructions for your operating system.
 
 2. Change into the project directory:
 
