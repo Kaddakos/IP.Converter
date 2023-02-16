@@ -143,9 +143,7 @@ void decimalToBinary(int *parts) {
 
     // Converting each part of the IP (which is int) into a string so we can print the converted IP.
     for (int i = 0; i < 4; i++) {
-        for (int b = 0; b < 8; b++) {
-            sprintf(octets[i], "%d%d%d%d%d%d%d%d", binaryip[i][7], binaryip[i][6], binaryip[i][5], binaryip[i][4], binaryip[i][3], binaryip[i][2], binaryip[i][1], binaryip[i][0]);
-        }
+        sprintf(octets[i], "%d%d%d%d%d%d%d%d", binaryip[i][7], binaryip[i][6], binaryip[i][5], binaryip[i][4], binaryip[i][3], binaryip[i][2], binaryip[i][1], binaryip[i][0]);
     }
 
     printf("The binary IP is: %s.%s.%s.%s\n", octets[0], octets[1], octets[2], octets[3]);
