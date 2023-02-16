@@ -15,6 +15,8 @@ This is a simple C program that runs in the terminal and allows for the conversi
 
 ## Installation
 
+To run the program, a compiler such as MingW64 for Windows is required, as well as **[Git]([https://www.onlinegdb.com/online_c_compiler](https://git-scm.com/downloads))** if you wish to follow our guide.
+
 1) Clone the repository:
 
 ```
@@ -38,8 +40,6 @@ gcc -o ip_converter ip_converter.c
 ```
 ./ip_converter
 ```
-
-If you don't have GCC installed, you can install it by following the instructions for your operating system.
 
 Alternatively, the code may be copied and pasted into an editor for execution, or even an online compiler such as **[onlinegdb](https://www.onlinegdb.com/online_c_compiler)**
 
