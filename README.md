@@ -15,7 +15,7 @@ This is a simple C program that runs in the terminal and allows for the conversi
 
 ## Installation
 
-To run the program, a compiler such as MingW64 for Windows is required, as well as **[Git](https://git-scm.com/downloads)** if you wish to follow our guide.
+To run the program, a compiler such as **[MinGW64](https://www.mingw-w64.org/)** for Windows is required, as well as **[Git](https://git-scm.com/downloads)** if you wish to follow our guide.
 
 1) Clone the repository:
 
