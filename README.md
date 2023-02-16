@@ -15,31 +15,26 @@ This is a simple C program that runs in the terminal and allows for the conversi
 
 ## Installation
 
-1. Ensure that you have GCC installed on your machine. You can check whether you have GCC installed by running the following command in your terminal:
-
-```
-gcc --version
-```
-
-2. Clone the repository to your local machine by running the following command in your terminal:
+1) Clone the repository:
 
 ```
 git clone https://github.com/Kaddakos/IP.Converter.git
 ```
+- If you don't have GCC installed, you can install it by following the instructions for your operating system.
 
-3. Navigate to the project directory by running:
+2. Change into the project directory:
 
 ```
 cd IP.Converter
 ```
 
-4. Compile the program by running the following command:
+3. Compile the program using gcc:
 
 ```
-gcc ip_converter.c -o ip_converter
+gcc -o ip_converter ip_converter.c
 ```
 
-5. Run the program by executing the following command:
+4. Run the program:
 
 ```
 ./ip_converter
