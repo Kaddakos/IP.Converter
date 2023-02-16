@@ -15,7 +15,42 @@ This is a simple C program that runs in the terminal and allows for the conversi
 
 ## Installation
 
-To run the program, a compiler such as MingW64 for Windows is required. Once installed, the user may download the **[IP-Converter](https://github.com/Kaddakos/IP.Converter/blob/main/IP-Converter.exe)** and run it.
+Ensure that you have GCC installed on your machine. You can check whether you have GCC installed by running the following command in your terminal:
+
+```
+gcc --version
+```
+
+If you don't have GCC installed, you can install it by following the instructions for your operating system. 
+
+
+Clone the repository to your local machine by running the following command in your terminal:
+
+```
+git clone https://github.com/Kaddakos/IP.Converter.git
+```
+
+Navigate to the project directory by running:
+
+```
+cd IP.Converter
+```
+
+Compile the program by running the following command:
+
+```
+gcc ip_converter.c -o ip_converter
+```
+
+This will generate an executable file named ip_converter.
+
+Run the program by executing the following command:
+
+```
+./ip_converter
+```
+
+This will launch the program and you can start converting IP addresses.
 
 Alternatively, the code may be copied and pasted into an editor for execution, or even an online compiler such as **[onlinegdb](https://www.onlinegdb.com/online_c_compiler)**
 
