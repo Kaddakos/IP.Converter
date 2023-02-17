@@ -32,13 +32,13 @@ cd IP.Converter
 3. Compile the program using gcc:
 
 ```
-gcc -o ip_converter ip_converter.c
+gcc -o IP-converter IP-converter.c
 ```
 
 4. Run the program:
 
 ```
-./ip_converter
+.\IP-converter
 ```
 
 Alternatively, the **[code](https://github.com/Kaddakos/IP.Converter/blob/main/IP-Converter.c)** may be copied and pasted into an editor for execution, or even an online compiler such as **[onlinegdb](https://www.onlinegdb.com/online_c_compiler)**.
